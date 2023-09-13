@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="whiteList:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="whiteList.jar">
+      <element id="module-output" name="jjd1_app" />
+    </root>
+  </artifact>
+</component>
